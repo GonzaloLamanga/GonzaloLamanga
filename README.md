@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @GonzaloLamanga
+
 Social life is becoming more complex and technology is less appealing for the genuine software developers of today. Nowadays we need to pay monthly or yearly for a piece a software used at home once or twice and the sense of community is lost within the greys of greed. So I am trying to use GITHUB, hoping to get familiar with the new paradigm and find the venues to go BACK TO THE FUTURE by creating meaningful tools and utility for the home user without the burden of unnecessary costs.   Now the unthinkable has a price and creativity is becoming the soul of the past. I hope I not alone on this trend of though; but it is what is.
